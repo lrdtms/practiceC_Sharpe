@@ -1,0 +1,14 @@
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/bin/Debug/net9.0/LiteralValues
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/bin/Debug/net9.0/LiteralValues.deps.json
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/bin/Debug/net9.0/LiteralValues.runtimeconfig.json
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/bin/Debug/net9.0/LiteralValues.dll
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/bin/Debug/net9.0/LiteralValues.pdb
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/LiteralValues.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/LiteralValues.AssemblyInfoInputs.cache
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/LiteralValues.AssemblyInfo.cs
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/LiteralValues.csproj.CoreCompileInputs.cache
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/LiteralValues.dll
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/refint/LiteralValues.dll
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/LiteralValues.pdb
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/LiteralValues.genruntimeconfig.cache
+/home/lrdtms/Desktop/Practice/Part 1/LiteralValues/LiteralValues/obj/Debug/net9.0/ref/LiteralValues.dll
