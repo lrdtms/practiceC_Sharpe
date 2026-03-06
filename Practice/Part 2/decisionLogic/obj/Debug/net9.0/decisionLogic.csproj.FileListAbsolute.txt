@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\bin\Debug\net9.0\decisionLogic.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\bin\Debug\net9.0\decisionLogic.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\bin\Debug\net9.0\decisionLogic.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\bin\Debug\net9.0\decisionLogic.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\bin\Debug\net9.0\decisionLogic.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\refint\decisionLogic.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\decisionLogic.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\decisionLogic\obj\Debug\net9.0\ref\decisionLogic.dll

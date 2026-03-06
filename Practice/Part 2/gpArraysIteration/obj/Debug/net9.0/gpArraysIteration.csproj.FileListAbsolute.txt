@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\bin\Debug\net9.0\gpArraysIteration.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\bin\Debug\net9.0\gpArraysIteration.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\bin\Debug\net9.0\gpArraysIteration.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\bin\Debug\net9.0\gpArraysIteration.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\bin\Debug\net9.0\gpArraysIteration.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\refint\gpArraysIteration.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\gpArraysIteration.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\gpArraysIteration\obj\Debug\net9.0\ref\gpArraysIteration.dll

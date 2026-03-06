@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\bin\Debug\net9.0\stringFormatting.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\bin\Debug\net9.0\stringFormatting.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\bin\Debug\net9.0\stringFormatting.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\bin\Debug\net9.0\stringFormatting.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\bin\Debug\net9.0\stringFormatting.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\refint\stringFormatting.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\stringFormatting.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\stringFormatting\obj\Debug\net9.0\ref\stringFormatting.dll

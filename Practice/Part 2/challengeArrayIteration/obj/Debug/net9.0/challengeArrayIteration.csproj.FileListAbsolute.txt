@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\bin\Debug\net9.0\challengeArrayIteration.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\bin\Debug\net9.0\challengeArrayIteration.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\bin\Debug\net9.0\challengeArrayIteration.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\bin\Debug\net9.0\challengeArrayIteration.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\bin\Debug\net9.0\challengeArrayIteration.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\refint\challengeArrayIteration.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\challengeArrayIteration.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\challengeArrayIteration\obj\Debug\net9.0\ref\challengeArrayIteration.dll

@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\bin\Debug\net9.0\guidedProjectFinalGpa.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\bin\Debug\net9.0\guidedProjectFinalGpa.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\bin\Debug\net9.0\guidedProjectFinalGpa.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\bin\Debug\net9.0\guidedProjectFinalGpa.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\bin\Debug\net9.0\guidedProjectFinalGpa.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\refint\guidedProjectFinalGpa.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\guidedProjectFinalGpa.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectFinalGpa\obj\Debug\net9.0\ref\guidedProjectFinalGpa.dll

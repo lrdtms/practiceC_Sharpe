@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\bin\Debug\net9.0\callingMethodsClassLibrary.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\bin\Debug\net9.0\callingMethodsClassLibrary.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\bin\Debug\net9.0\callingMethodsClassLibrary.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\bin\Debug\net9.0\callingMethodsClassLibrary.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\bin\Debug\net9.0\callingMethodsClassLibrary.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\refint\callingMethodsClassLibrary.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\callingMethodsClassLibrary.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\callingMethodsClassLibrary\obj\Debug\net9.0\ref\callingMethodsClassLibrary.dll

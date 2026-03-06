@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\bin\Debug\net9.0\numberOperations.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\bin\Debug\net9.0\numberOperations.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\bin\Debug\net9.0\numberOperations.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\bin\Debug\net9.0\numberOperations.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\bin\Debug\net9.0\numberOperations.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\refint\numberOperations.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\numberOperations.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\numberOperations\obj\Debug\net9.0\ref\numberOperations.dll

@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\bin\Debug\net9.0\arraysForeach.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\bin\Debug\net9.0\arraysForeach.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\bin\Debug\net9.0\arraysForeach.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\bin\Debug\net9.0\arraysForeach.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\bin\Debug\net9.0\arraysForeach.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\refint\arraysForeach.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\arraysForeach.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 2\arraysForeach\obj\Debug\net9.0\ref\arraysForeach.dll

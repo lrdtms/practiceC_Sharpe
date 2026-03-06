@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\bin\Debug\net9.0\guidedProjectStudentGrades.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\bin\Debug\net9.0\guidedProjectStudentGrades.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\bin\Debug\net9.0\guidedProjectStudentGrades.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\bin\Debug\net9.0\guidedProjectStudentGrades.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\bin\Debug\net9.0\guidedProjectStudentGrades.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\refint\guidedProjectStudentGrades.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\guidedProjectStudentGrades.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 1\guidedProjectStudentGrades\obj\Debug\net9.0\ref\guidedProjectStudentGrades.dll
