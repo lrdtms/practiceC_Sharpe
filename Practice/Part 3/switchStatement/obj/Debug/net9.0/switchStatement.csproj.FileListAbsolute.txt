@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\bin\Debug\net9.0\switchStatement.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\bin\Debug\net9.0\switchStatement.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\bin\Debug\net9.0\switchStatement.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\bin\Debug\net9.0\switchStatement.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\bin\Debug\net9.0\switchStatement.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\refint\switchStatement.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\switchStatement.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\switchStatement\obj\Debug\net9.0\ref\switchStatement.dll

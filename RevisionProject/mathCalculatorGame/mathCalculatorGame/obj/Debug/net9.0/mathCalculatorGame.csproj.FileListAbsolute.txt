@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\bin\Debug\net9.0\mathCalculatorGame.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\bin\Debug\net9.0\mathCalculatorGame.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\bin\Debug\net9.0\mathCalculatorGame.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\bin\Debug\net9.0\mathCalculatorGame.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\bin\Debug\net9.0\mathCalculatorGame.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\refint\mathCalculatorGame.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\mathCalculatorGame.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\RevisionProject\mathCalculatorGame\mathCalculatorGame\obj\Debug\net9.0\ref\mathCalculatorGame.dll

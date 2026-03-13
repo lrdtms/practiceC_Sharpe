@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\bin\Debug\net9.0\loopingProject2.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\bin\Debug\net9.0\loopingProject2.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\bin\Debug\net9.0\loopingProject2.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\bin\Debug\net9.0\loopingProject2.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\bin\Debug\net9.0\loopingProject2.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\refint\loopingProject2.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\loopingProject2.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\loopingProject2\obj\Debug\net9.0\ref\loopingProject2.dll

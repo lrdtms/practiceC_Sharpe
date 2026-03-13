@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\bin\Debug\net9.0\booleanExpressions.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\bin\Debug\net9.0\booleanExpressions.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\bin\Debug\net9.0\booleanExpressions.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\bin\Debug\net9.0\booleanExpressions.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\bin\Debug\net9.0\booleanExpressions.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\refint\booleanExpressions.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\booleanExpressions.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 3\booleanExpressions\obj\Debug\net9.0\ref\booleanExpressions.dll
