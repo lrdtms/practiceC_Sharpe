@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\bin\Debug\net9.0\convertingDataTypes.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\bin\Debug\net9.0\convertingDataTypes.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\bin\Debug\net9.0\convertingDataTypes.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\bin\Debug\net9.0\convertingDataTypes.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\bin\Debug\net9.0\convertingDataTypes.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\refint\convertingDataTypes.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\convertingDataTypes.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\convertingDataTypes\obj\Debug\net9.0\ref\convertingDataTypes.dll

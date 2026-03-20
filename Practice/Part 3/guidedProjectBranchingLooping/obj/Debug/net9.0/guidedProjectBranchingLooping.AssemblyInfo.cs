@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guidedProjectBranchingLooping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cba2a5441c8416ced4d0f46b468e165c5b62a54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd6349e851559cd4f9eccdf6a527402c064d4d8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("guidedProjectBranchingLooping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guidedProjectBranchingLooping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

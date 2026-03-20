@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("booleanExpressions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cba2a5441c8416ced4d0f46b468e165c5b62a54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd6349e851559cd4f9eccdf6a527402c064d4d8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("booleanExpressions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("booleanExpressions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

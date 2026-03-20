@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\bin\Debug\net9.0\arrayHelperMethods.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\bin\Debug\net9.0\arrayHelperMethods.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\bin\Debug\net9.0\arrayHelperMethods.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\bin\Debug\net9.0\arrayHelperMethods.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\bin\Debug\net9.0\arrayHelperMethods.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\refint\arrayHelperMethods.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\arrayHelperMethods.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\arrayHelperMethods\obj\Debug\net9.0\ref\arrayHelperMethods.dll

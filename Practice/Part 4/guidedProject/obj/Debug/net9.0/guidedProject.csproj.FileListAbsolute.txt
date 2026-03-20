@@ -1,0 +1,15 @@
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.AssemblyInfoInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.AssemblyInfo.cs
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.csproj.CoreCompileInputs.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.sourcelink.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\bin\Debug\net9.0\guidedProject.exe
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\bin\Debug\net9.0\guidedProject.deps.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\bin\Debug\net9.0\guidedProject.runtimeconfig.json
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\bin\Debug\net9.0\guidedProject.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\bin\Debug\net9.0\guidedProject.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\refint\guidedProject.dll
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.pdb
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\guidedProject.genruntimeconfig.cache
+C:\Users\Adim\GitRepo\Practice\practiceC_Sharpe\Practice\Part 4\guidedProject\obj\Debug\net9.0\ref\guidedProject.dll

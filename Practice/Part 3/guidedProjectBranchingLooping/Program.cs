@@ -87,6 +87,7 @@ Console.WriteLine(" 5. Edit an animal’s age");
 Console.WriteLine(" 6. Edit an animal’s personality description");
 Console.WriteLine(" 7. Display all cats with a specified characteristic");
 Console.WriteLine(" 8. Display all dogs with a specified characteristic");
+Console.WriteLine(" 9. Edit any animal’s information");
 Console.WriteLine();
 Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
 
@@ -99,15 +100,15 @@ if (readResult != null)
     case "1":
     for (int i = 0; i < maxPets; i++)
         {
-            if (ourAnimals[i, 0] != "ID #: " && ourAnimals[i, 1] != "Species: " && ourAnimals[i, 2] != "Age: " && ourAnimals[i, 3] != "Nickname: " && ourAnimals[i, 4] != "Physical description: " && ourAnimals[i, 5] != "Personality: ")
-            {
+            // if (ourAnimals[i, 0] != "ID #: " && ourAnimals[i, 1] != "Species: " && ourAnimals[i, 2] != "Age: " && ourAnimals[i, 3] != "Nickname: " && ourAnimals[i, 4] != "Physical description: " && ourAnimals[i, 5] != "Personality: ")
+            // {
                 for (int j = 0; j < 6; j++)
                 {
                     Console.WriteLine(ourAnimals[i, j]);
                 }
            
              
-            }
+            //}
             Console.ReadLine(); 
             
         }
@@ -125,7 +126,7 @@ if (readResult != null)
                     Console.Write(ourAnimals[i, j]);
                     string? userInput = Console.ReadLine();
                     ourAnimals[i, j] = ourAnimals[i, j] + userInput;
-                    Console.ReadLine();
+                    //  Console.ReadLine();
                     rowCount++;
                 }
            
@@ -141,15 +142,179 @@ if (readResult != null)
     readResult = Console.ReadLine();
         break;
     case "3":
-    Console.WriteLine("Challenge Project - please check back soon to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
-        break;
+    for (int i = 0; i < maxPets; i++)
+        {
+            if (ourAnimals[i, 2] == "Age: " )
+            {
+                Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]} has incomplete age information. Please enter the age for this animal.");
+                Console.Write("Enter age: ");
+                string? age = Console.ReadLine();
+                ourAnimals[i, 2] = ourAnimals[i, 2] + age;
+              //Console.ReadLine();
+            }
+            if (ourAnimals[i, 4] == "Physical description: " )
+            {
+                Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]} has incomplete physical description information. Please enter the physical description for this animal.");
+                Console.Write("Enter physical description: ");
+                string? physicalDescription = Console.ReadLine();
+                ourAnimals[i, 4] = ourAnimals[i, 4] + physicalDescription;
+              //Console.ReadLine();
+            }
+            if (ourAnimals[i, 2] != "Age: " && ourAnimals[i, 4] != "Physical description: " )
+            {
+                Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]} has complete age and physical description information.");
+            }
+             Console.ReadLine();
+
+            }
+       break;     
     case "4":
-    Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
-        break;            
+    for (int i = 0; i < maxPets; i++)
+        {
+            
+            if (ourAnimals[i, 3] == "Nickname: " )
+            {
+                Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]} has incomplete nickname information. Please enter the nickname for this animal.");
+                Console.Write("Enter nickname: ");
+                string? nickname = Console.ReadLine();
+                ourAnimals[i, 3] = ourAnimals[i, 3] + nickname;
+              //Console.ReadLine();
+            }
+            if (ourAnimals[i, 5] == "Personality: " )
+            {
+                Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]} has incomplete personality information. Please enter the personality for this animal.");
+                Console.Write("Enter personality: ");
+                string? personality = Console.ReadLine();
+                ourAnimals[i, 5] = ourAnimals[i, 5] + personality;
+
+              //Console.ReadLine();
+            }
+            if (ourAnimals[i, 3] != "Nickname: " && ourAnimals[i, 5] != "Personality: " )
+            {
+                Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]} has complete nickname and personality information.");
+            }
+             Console.ReadLine();
+
+            }
+        break;
+    case "5":
+    for(int i = 0; i < maxPets; i++)
+        {
+            if(ourAnimals[i,2] != "Age: " || ourAnimals[i,2] == "Age:  ")
+                    {
+                        Console.WriteLine($"would you like to edit animal {ourAnimals[i,0]}    {ourAnimals[i,3]}'s age?(yes/no) ");
+                        Console.WriteLine($"{ourAnimals[i,2]}");
+                        string? editAge = Console.ReadLine();
+                        if (editAge != null)
+                        {
+                            if (editAge.ToLower() == "yes")
+                            {
+                                Console.Write("Enter new age: ");
+                                string? newAge = Console.ReadLine();
+                                ourAnimals[i, 2] = "Age: " + newAge;
+                            }
+                            else if (editAge.ToLower() == "no")
+                            {
+                                    Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]}'s age will not be edited.");
+                                    Console.ReadLine();
+                                    continue;
+                            } 
+                        }
+                    }
+        }
+    break;
+    case "6":
+    for(int i = 0; i < maxPets; i++)
+        {
+            if(ourAnimals[i,5] != "Personality: " || ourAnimals[i,5] == "Personality:  ")
+                    {
+                        Console.WriteLine($"would you like to edit animal {ourAnimals[i,0]}    {ourAnimals[i,3]}'s personality?(yes/no) ");
+                        Console.WriteLine($"{ourAnimals[i,5]}");
+                        string? editPersonality = Console.ReadLine();
+                        if (editPersonality != null)
+                        {
+                            if (editPersonality.ToLower() == "yes")
+                            {
+                                Console.Write("Enter new personality: ");
+                                string? newPersonality = Console.ReadLine();
+                                ourAnimals[i, 5] = "Personality: " + newPersonality;
+                            }
+                            else if (editPersonality.ToLower() == "no")
+                            {
+                                    Console.WriteLine($"Animal {ourAnimals[i, 0]} {ourAnimals[i, 3]}'s personality will not be edited.");
+                                    Console.ReadLine();
+                                    continue;
+                            } 
+                        }
+                    }
+        }
+    break;
+    case "7":
+    Console.Write("Search for cats with the following characteristic in their physical description: ");
+              string? searchcatCharacteristic = Console.ReadLine().ToLower();
+    for (int i = 0; i < maxPets; i++)
+        {
+            if (ourAnimals[i, 4] != "Physical description: ")
+            {
+              string  arrayStorage = ourAnimals[i, 4].ToLower();
+              
+              if (searchcatCharacteristic != null)
+                        {
+                            if (arrayStorage.Contains(searchcatCharacteristic) && ourAnimals[i, 1] == "Species: cat")
+                            {
+                                for (int j = 0; j < 6; j++)
+                                {
+                                    Console.WriteLine(ourAnimals[i, j]);
+                                }
+                                Console.ReadLine();
+                            }
+                        }
+              
+            }
+        }
+    break;
+    case "8":
+    Console.Write("Search for dogs with the following characteristic in their physical description: ");
+    string searchdogCharacteristic = Console.ReadLine().ToLower();
+    for (int i = 0; i < maxPets; i++)
+        {
+            if (ourAnimals[i, 4] != "Physical description: ")
+            {
+              string  arrayStorage = ourAnimals[i, 4].ToLower();
+              
+              if (searchdogCharacteristic != null)
+                        {
+                            if (arrayStorage.Contains(searchdogCharacteristic) && ourAnimals[i, 1] == "Species: dog")
+                            {
+                                for (int j = 0; j < 6; j++)
+                                {
+                                    Console.WriteLine(ourAnimals[i, j]);
+                                }
+                                Console.ReadLine();
+                            }
+                        }
+              
+            }
+        }
+    break;   
+    case "9":    
+        Console.Write("Enter the ID # of the animal you would like to edit: ");
+                string? editID = Console.ReadLine();
+                for (int i = 0; i < maxPets; i++)
+                {
+                    if (ourAnimals[i, 0] == "ID #: " + editID)
+                    {
+                        for (int j = 0; j < 6; j++)
+                        {
+                            Console.WriteLine(ourAnimals[i, j]);
+                            Console.Write("Enter new information : ");
+                            string? userInput = Console.ReadLine();
+                            ourAnimals[i, j] = ourAnimals[i, j].Split(": ")[0] + ": " + userInput;
+                        }
+                        Console.ReadLine();
+                    }
+                }  
+    break;
 }
 }
 

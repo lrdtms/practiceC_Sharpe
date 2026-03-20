@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "arrayHelperMethods/1.0.0": {
+        "runtime": {
+          "arrayHelperMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arrayHelperMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
